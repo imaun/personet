@@ -1,2 +1,2 @@
 # personet
-Personet is a HRM system
+Personet is a simple and open source HRM system for small businesses 
